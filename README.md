@@ -1,0 +1,2 @@
+# Ruby-Chess
+config users
